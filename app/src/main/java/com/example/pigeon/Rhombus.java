@@ -1,5 +1,5 @@
 package com.example.pigeon;
 
-public class Rhombus {
+public class Rhombus extends Shape {
 
 }
