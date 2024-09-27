@@ -1,7 +1,7 @@
 package com.example.pigeon;
 
 public abstract class Shape {
-    String color = "red";
+    String color = "blue";
     int x;
     int y;
 }
